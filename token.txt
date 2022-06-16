@@ -1,0 +1,4 @@
+Replace the contents of this file with your GitHub Personal Access Token as the first and only line.
+The token should have limited access:
+- repo:status
+- public_repo
