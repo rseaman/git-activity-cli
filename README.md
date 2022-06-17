@@ -17,4 +17,4 @@ This utility can be run on Linux, OS X, or Windows (but only in WSL)
 Run `gac.py` to see the utility's help screen.
 
 It will default to returning 3 results for either Releases or PRs, but this can be overridden with `-r #`.
-Up to 10 results can currently be returned.
+Up to 30 results can currently be returned.
